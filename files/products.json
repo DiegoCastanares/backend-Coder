@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Nuevo Kindle Paperwhite (8 GB) | Ahora con una pantalla de 6,8 y luz cálida ajustable, sin publicidad",
+    "price": 149.99,
+    "thumbnail": "https://m.media-amazon.com/images/I/61eGz0e6N+L._AC_UY436_FMwebp_QL65_.jpg",
+    "id": 1
+  },
+  {
+    "title": "Kindle, ahora con luz frontal integrada, negro",
+    "price": 89.99,
+    "thumbnail": "https://m.media-amazon.com/images/I/61vE5CAZ2qL._AC_UY436_FMwebp_QL65_.jpg",
+    "id": 2
+  },
+  {
+    "title": "Kindle, ahora con luz frontal integrada, blanco",
+    "price": 89.99,
+    "thumbnail": "https://m.media-amazon.com/images/I/51UJzVh9r1L._AC_UY436_FMwebp_QL65_.jpg",
+    "id": 3
+  },
+  {
+    "title": "Kindle Paperwhite Reacondicionado Certificado- Resistente al agua, pantalla de alta resolución de 6, 8 GB - con publicidad",
+    "price": 116.99,
+    "thumbnail": "https://m.media-amazon.com/images/I/51Iwz9LjWsL._AC_UY436_FMwebp_QL65_.jpg",
+    "id": 4
+  }
+]
